@@ -1,0 +1,70 @@
+body{
+    font-family: 'Inter', monospace;
+    font-weight: 300;
+    background-color: #181818;
+    color: white;
+}
+.navbar-custom{
+    background-color: black;
+}
+
+.nav-link {
+    color: #a9a9a9;
+}
+
+.nav-link:checked{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.white{
+    color: white;
+}
+
+.black{
+    color: #181818;
+}
+.col-sm.white.left{
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+.row{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+.col-sm{
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+.btn-inactive{
+    background-color: #181818;
+    color: white;
+    border-color: white;
+}
+.btn-active{
+    background-color: white;
+    color: #181818;
+}
+.btn-inactive:hover{
+    color:#181818;
+    background-color: white;
+}
+/* .right{
+    margin-left: 50px;
+} */
+
+/* .right{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+} */
+
+/* .nav-link-active{
+    color: white;
+} */
